@@ -1,0 +1,12 @@
+server estatico para cadastros de clientes
+
+struct {
+    nome
+    idade
+    cpf
+    telefone
+}
+
+nao pode cpf repetido
+idade maior de 18
+telefone com 9 digitos
