@@ -16,3 +16,8 @@ controll = camada da regra de negocio
 models = camada aonde ira ficar a struct do projeto
 routes = aonde ira ficar a rota http
 services = aonde ira ficar os metados da struct
+
+coisas que tentarei fazer
+-bd de cache
+- testes unitarios
+
