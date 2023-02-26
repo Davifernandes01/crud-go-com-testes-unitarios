@@ -2,3 +2,5 @@ github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ
 github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/klassmann/cpfcnpj v0.0.0-20200907140233-a595c5fd8de1 h1:nT1t/3YnkjBWdVl6zmvmim6S8gjAZOpZi19iEBq3/Ko=
+github.com/klassmann/cpfcnpj v0.0.0-20200907140233-a595c5fd8de1/go.mod h1:2lGFirXS+qsYDFtk4OAzWXyILL3mrSAluEH26Ao65ZY=

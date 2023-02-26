@@ -10,7 +10,7 @@ _ "github.com/go-sql-driver/mysql"
 func ConnectionDB() (*sql.DB, error){
 
 	//abrindo o banco de dados
-	db, err:= sql.Open("mysql", Config.StringCon)
+	db, err:= sql.Open("mysql", config.StringCon)
 	if err != nil {
 		return nil, err
 	}

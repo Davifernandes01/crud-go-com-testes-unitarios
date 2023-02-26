@@ -7,6 +7,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 )
 
+//teste para ver se a conexao com o banco de dados esta funcionando
 func TestDBconnection(T *testing.T){
 
 	db, err := sql.Open("mysql", "root:davi2003@/crud?charset=utf8&parseTime=True&loc=Local")
